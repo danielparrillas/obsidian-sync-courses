@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/13 - Cables de Par Trenzado Tipos, Usos y Conexiones RJ-45.md",
+                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/14 - Funciones y Protocolos de la Capa de Enlace de Datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13 - Cables de Par Trenzado Tipos, Usos y Conexiones RJ-45"
+              "title": "14 - Funciones y Protocolos de la Capa de Enlace de Datos"
             }
           }
         ]
@@ -194,8 +194,9 @@
   },
   "active": "4f3efd4d56151f30",
   "lastOpenFiles": [
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/12 - Capa Física del Modelo OSI Transmisión y Cableado.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/13 - Cables de Par Trenzado Tipos, Usos y Conexiones RJ-45.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/14 - Funciones y Protocolos de la Capa de Enlace de Datos.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/12 - Capa Física del Modelo OSI Transmisión y Cableado.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/11 - Modelo OSI Comunicación en Redes y Capas del Sistema.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/10 - Modelo TCP-IP.md",
     "README.md",
