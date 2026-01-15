@@ -1,4 +1,4 @@
-Resumen
+**Resumen**
 
 El **modelo OSI** es un marco utilizado para comprender cómo funcionan juntos los diferentes sistemas de comunicación. Divide el proceso de envío y recepción de datos a través de una red en siete capas, cada una de las cuales realiza una función específica.
 

@@ -1,4 +1,4 @@
-Resumen
+**Resumen**
 
 Recuerda que no puedes elegir las IP libremente, ya que existe un organismo regulador global llamado [ICANN](https://www.icann.org/es) encargado de supervisar su uso.
 
