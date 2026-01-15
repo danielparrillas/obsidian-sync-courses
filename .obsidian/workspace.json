@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fd275d85bd46e85f",
+        "id": "f098a320273dec9e",
         "type": "tabs",
         "children": [
           {
-            "id": "0b396525f2acf2d4",
+            "id": "4f3efd4d56151f30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "README"
             }
           }
         ]
@@ -173,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b396525f2acf2d4",
+  "active": "4f3efd4d56151f30",
   "lastOpenFiles": [
     "README.md",
     "Excalidraw/Drawing 2026-01-15 10.41.49.excalidraw.md",
