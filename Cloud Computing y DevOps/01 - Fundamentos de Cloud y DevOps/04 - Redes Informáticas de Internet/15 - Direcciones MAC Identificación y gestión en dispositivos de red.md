@@ -10,11 +10,11 @@ Además, cada uno de estos identificadores se asigna de forma exclusiva a un dis
 
 ![imagen-mac](https://lh5.googleusercontent.com/yBJ8BLNYZl0dBSCUTWmeh81xsTsXWDPZ9FW0kPl-Jqn4myTU0KigwXoFxA96lKZZU8nHc-6Ctu-y3F379TKWGyTzBF_V0oraTOg5I1n_PvWh5ie56CxRd4aMhp6uVNvWrmi5iHR4)
 
-¿Cómo puedo obtener el MAC desde distintos dispositivos?
+**¿Cómo puedo obtener el MAC desde distintos dispositivos?**
 
 ¿Te has preguntado quién se está conectando a tu red y desde qué dispositivos? A continuación descubrirás cómo puedes averiguar la dirección MAC en una lista de dispositivos conectados a través del móvil u ordenador.
 
-Obtener el MAC en Windows
+**Obtener el MAC en Windows**
 
 Estos son los pasos para encontrar la dirección MAC de tu ordenador utilizando el Símbolo del sistema:
 
