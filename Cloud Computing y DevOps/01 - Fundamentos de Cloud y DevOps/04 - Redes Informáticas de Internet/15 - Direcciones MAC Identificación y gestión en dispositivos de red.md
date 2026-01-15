@@ -23,16 +23,16 @@ Estos son los pasos para encontrar la dirección MAC de tu ordenador utilizando 
 3. Busca la sección que dice "Adaptador de LAN inalámbrica wifi".
 4. Dentro de ella, busca la “dirección física” para encontrar la dirección MAC.
 
-Obtener el MAC en iOS
+**Obtener el MAC en iOS**
 
 Para obtener el MAC en iOS sigue estos pasos.
 
-1. Entra en la opción“Ajustes” en tu dispositivo iOS.
+1. Entra en la opción “Ajustes” en tu dispositivo iOS.
 2. Desplázate hacia abajo y selecciona “General”.
 3. Selecciona “Información” y luego “Wifi Address".
 4. La dirección MAC de tu dispositivo iOS se mostrará en la pantalla.
 
-Obtener el MAC en Android
+**Obtener el MAC en Android**
 
 1. Abre la aplicación “Ajustes” en tu dispositivo Android.
 2. Desplázate hacia abajo y selecciona la opción “Acerca del teléfono” o “Acerca de la tablet”.
@@ -43,7 +43,7 @@ Obtener el MAC en Android
 7. Si tienes un dispositivo con Android 6.0 o superior, es posible que se te solicite permiso para acceder a la ubicación del dispositivo antes de poder ver la dirección MAC. En ese caso, otorga el permiso para continuar.
 8. Una vez que hayas encontrado la dirección MAC, puedes cerrar la aplicación “Ajustes”.
 
-Obtener el MAC en macOS
+**Obtener el MAC en macOS**
 
 1. Haz clic en el ícono de Apple en la esquina superior izquierda de la pantalla y selecciona “Preferencias del sistema”.
     
