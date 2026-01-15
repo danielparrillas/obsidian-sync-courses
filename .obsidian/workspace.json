@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18 - Capa de Sesión en el Modelo OSI - Funciones y Protocolos Clave.md",
+                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/18 - Capa de Sesión en el Modelo OSI - Funciones y Protocolos Clave.md",
                 "mode": "source",
                 "source": false
               },
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,10 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3a8baf4793f4b28",
+  "active": "0ade9d368c0e233f",
   "lastOpenFiles": [
-    "18 - Capa de Sesión en el Modelo OSI - Funciones y Protocolos Clave.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/19 - Capa de Presentación - Formatos de Datos en Redes Informáticas.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/18 - Capa de Sesión en el Modelo OSI - Funciones y Protocolos Clave.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/17 - Capa de Transporte TCP y UDP en Redes de Comunicación.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/16 - Capa de Red Dirección y Enrutamiento de Paquetes.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/15 - Direcciones MAC Identificación y gestión en dispositivos de red.md",
