@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/21 - Protocolos en la Capa de Aplicación del Modelo OSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de 21 - Protocolos en la Capa de Aplicación del Modelo OSI"
             }
           },
           {
@@ -173,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,8 +196,8 @@
   },
   "active": "d8473e8c9f707431",
   "lastOpenFiles": [
-    "Sin título.base",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/21 - Protocolos en la Capa de Aplicación del Modelo OSI.md",
+    "Sin título.base",
     "Indice.base",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/11 - Modelo OSI Comunicación en Redes y Capas del Sistema.md",
     "Sin título.md",
