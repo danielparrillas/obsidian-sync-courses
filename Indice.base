@@ -1,4 +1,13 @@
 views:
   - type: table
     name: Tabla
+    order:
+      - file.name
+      - file.folder
+      - file.fullname
     sort: []
+  - type: cards
+    name: Vista
+  - type: list
+    name: Vista 2
+    indentProperties: false

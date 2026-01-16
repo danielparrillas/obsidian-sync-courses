@@ -11,14 +11,13 @@
             "id": "d8473e8c9f707431",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/11 - Modelo OSI Comunicación en Redes y Capas del Sistema.md",
-                "mode": "source",
-                "source": false
+                "file": "Indice.base",
+                "viewName": "Tabla"
               },
-              "icon": "lucide-file",
-              "title": "11 - Modelo OSI Comunicación en Redes y Capas del Sistema"
+              "icon": "lucide-table",
+              "title": "Indice"
             }
           }
         ]
@@ -74,8 +73,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,8 +193,10 @@
   },
   "active": "d8473e8c9f707431",
   "lastOpenFiles": [
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/10 - Modelo TCP-IP.md",
+    "Sin título.md",
+    "Indice.base",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/11 - Modelo OSI Comunicación en Redes y Capas del Sistema.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/10 - Modelo TCP-IP.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/Recursos/SampleCaptures.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/Recursos",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/21 - Protocolos en la Capa de Aplicación del Modelo OSI.md",
@@ -215,7 +215,6 @@
     "README.md",
     "Excalidraw/Drawing 2026-01-15 10.41.49.excalidraw.md",
     "Excalidraw",
-    "Indice.base",
     "Sin nombre 1",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps",
     "Bienvenido.md",
