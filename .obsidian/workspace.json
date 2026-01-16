@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/23 - Dispositivos de Hardware de Red y su Función en la Arquitectura.md",
+                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/24 - Arquitecturas de Redes- Casos de Uso y Ejemplos Prácticos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23 - Dispositivos de Hardware de Red y su Función en la Arquitectura"
+              "title": "24 - Arquitecturas de Redes- Casos de Uso y Ejemplos Prácticos"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/23 - Dispositivos de Hardware de Red y su Función en la Arquitectura.md",
+                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/24 - Arquitecturas de Redes- Casos de Uso y Ejemplos Prácticos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 23 - Dispositivos de Hardware de Red y su Función en la Arquitectura"
+              "title": "Enlaces salientes de 24 - Arquitecturas de Redes- Casos de Uso y Ejemplos Prácticos"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "d8473e8c9f707431",
   "lastOpenFiles": [
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/22 - Comparación del modelo TCP-IP y el modelo OSI.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/23 - Dispositivos de Hardware de Red y su Función en la Arquitectura.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/24 - Arquitecturas de Redes- Casos de Uso y Ejemplos Prácticos.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/22 - Comparación del modelo TCP-IP y el modelo OSI.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/21 - Protocolos en la Capa de Aplicación del Modelo OSI.md",
     "Sin título.base",
     "Indice.base",
