@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1768573151364,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1768573141763,
+          "path": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/21 - Protocolos en la Capa de Aplicación del Modelo OSI.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1768573141763,
+          "path": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/10 - Modelo TCP-IP.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1768573141763,
+          "path": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/11 - Modelo OSI Comunicación en Redes y Capas del Sistema.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1768573141763,
+          "path": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/12 - Capa Física del Modelo OSI Transmisión y Cableado.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1768573141763,
+          "path": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/13 - Cables de Par Trenzado Tipos, Usos y Conexiones RJ-45.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1768573141763,
+          "path": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/14 - Funciones y Protocolos de la Capa de Enlace de Datos.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1768573141763,
+          "path": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/15 - Direcciones MAC Identificación y gestión en dispositivos de red.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1768573141763,
+          "path": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/16 - Capa de Red Dirección y Enrutamiento de Paquetes.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1768573141763,
+          "path": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/17 - Capa de Transporte TCP y UDP en Redes de Comunicación.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1768573141763,
+          "path": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/18 - Capa de Sesión en el Modelo OSI - Funciones y Protocolos Clave.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1768573141763,
+          "path": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/19 - Capa de Presentación - Formatos de Datos en Redes Informáticas.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1768573141763,
+          "path": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/20 - Instalación de Wireshark en Windows, macOS y Linux.md"
+        }
+      ],
+      "title": "Redes Informáticas"
+    }
+  ]
+}
