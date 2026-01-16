@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/20 - Instalación de Wireshark en Windows, macOS y Linux.md",
+                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/21 - Protocolos en la Capa de Aplicación del Modelo OSI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20 - Instalación de Wireshark en Windows, macOS y Linux"
+              "title": "21 - Protocolos en la Capa de Aplicación del Modelo OSI"
             }
           }
         ]
@@ -194,8 +194,9 @@
   },
   "active": "d8473e8c9f707431",
   "lastOpenFiles": [
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/19 - Capa de Presentación - Formatos de Datos en Redes Informáticas.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/20 - Instalación de Wireshark en Windows, macOS y Linux.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/21 - Protocolos en la Capa de Aplicación del Modelo OSI.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/19 - Capa de Presentación - Formatos de Datos en Redes Informáticas.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/Drawing 2026-01-16 07.58.04.excalidraw.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/Sin título.canvas",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/18 - Capa de Sesión en el Modelo OSI - Funciones y Protocolos Clave.md",
