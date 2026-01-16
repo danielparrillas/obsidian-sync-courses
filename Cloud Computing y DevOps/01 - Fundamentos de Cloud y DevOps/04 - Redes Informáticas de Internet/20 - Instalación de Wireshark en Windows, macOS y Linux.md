@@ -2,11 +2,11 @@
 
 **Wireshark** es un programa que nos sirve para capturar el tráfico de nuestra red y poder inspeccionar los diferentes paquetes que viajan por ella. Su instalación es bastante sencilla por lo que a continuación te explico cómo puedes instalarlo en cada uno de los diferentes sistemas operativos.
 
-**Windows y macOS**
+### Windows y macOS
 
 **Wireshark** tiene su propio ejecutable de instalación rápida para cada uno de estos sistemas, por lo que sólo tendrás que dar clic en instalar para que funcione correctamente. Solo debes dar [clic en este enlace](https://www.wireshark.org/download.html) para descargar dependiendo de tu sistema operativo.
 
-Ubuntu/Debian
+### Ubuntu/Debian
 
 Para instalar **Wireshark** en Ubuntu primero asegúrate de actualizar tus repositorios con:
 
