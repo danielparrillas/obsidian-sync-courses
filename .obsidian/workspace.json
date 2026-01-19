@@ -8,35 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1145cdc3d1760685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/01 - Redes de Internet - Configuración y Seguridad Avanzada.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 - Redes de Internet - Configuración y Seguridad Avanzada"
-            }
-          },
-          {
-            "id": "370c5086c0487093",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/03 - Cálculo de Máscaras de Subredes en Redes IP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 - Cálculo de Máscaras de Subredes en Redes IP"
-            }
-          },
-          {
             "id": "5ab43ed51187fa6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Ejercicios de 05/03 - EJERCICIO DE CÁLCULO DE TAMAÑO DE MÁSCARAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 - EJERCICIO DE CÁLCULO DE TAMAÑO DE MÁSCARAS"
+            }
+          },
+          {
+            "id": "3fb35ef79cad5087",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +35,7 @@
               "title": "03 - Cálculo de Máscaras de Subredes en Redes IP"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,8 +209,10 @@
   },
   "active": "5ab43ed51187fa6c",
   "lastOpenFiles": [
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Ejercicios de 05/03 - EJERCICIO DE CÁLCULO DE TAMAÑO DE MÁSCARAS.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/03 - Cálculo de Máscaras de Subredes en Redes IP.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Ejercicios de 05/03 - EJERCICIO DE CÁLCULO DE TAMAÑO DE MÁSCARAS.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources/Pasted image 20260119083436.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Ejercicios de 05",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/02 - Conversión de Números Decimales a Binarios y Viceversa.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/01 - Redes de Internet - Configuración y Seguridad Avanzada.md",
@@ -258,7 +245,6 @@
     "Sin nombre 1",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps",
     "Bienvenido.md",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet",
-    "Cloud Computing y DevOps"
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet"
   ]
 }

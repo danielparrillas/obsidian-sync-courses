@@ -100,6 +100,6 @@ Practica estos cálculos y refuerza tu entendimiento sobre el tema. Cada vez que
 | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 0   | 254       |
 | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 255       |
 - Tabla 2
-
+![[Pasted image 20260119083436.png]]
 
 - [[03 - EJERCICIO DE CÁLCULO DE TAMAÑO DE MÁSCARAS]]
