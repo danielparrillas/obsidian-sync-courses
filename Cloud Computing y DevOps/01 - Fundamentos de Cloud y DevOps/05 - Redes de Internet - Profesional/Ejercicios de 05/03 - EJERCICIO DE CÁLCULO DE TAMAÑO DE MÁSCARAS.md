@@ -3,11 +3,10 @@
 Usando lo aprendido en la clase responde:
 
 1.       ¿Cuál es la máscara para una red donde quepan 1000 hosts?
-$$
-2^n - 2 = 1000
-2^n = 1002
+$$2^n - 2 = 1000 $$
+$$2^n = 1002$$
+$$n$$
 
-$$
 2.       ¿Cuál es la máscara para una red donde quepan 1.000.000 hosts?
 
 3.       ¿Cuál es la máscara para una red donde quepan 128 hosts?
