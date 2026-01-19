@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Ejercicios de 05/03 - Ejercicio.md",
+                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/03 - Cálculo de Máscaras de Subredes en Redes IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Ejercicio"
+              "title": "03 - Cálculo de Máscaras de Subredes en Redes IP"
             }
           }
         ],
@@ -222,11 +222,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ade9d368c0e233f",
+  "active": "5ab43ed51187fa6c",
   "lastOpenFiles": [
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Ejercicios de 05",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Ejercicios de 05/03 - EJERCICIO DE CÁLCULO DE TAMAÑO DE MÁSCARAS.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/03 - Cálculo de Máscaras de Subredes en Redes IP.md",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Ejercicios de 05/03 - Ejercicio.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Ejercicios de 05",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/02 - Conversión de Números Decimales a Binarios y Viceversa.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/01 - Redes de Internet - Configuración y Seguridad Avanzada.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/18 - Capa de Sesión en el Modelo OSI - Funciones y Protocolos Clave.md",
