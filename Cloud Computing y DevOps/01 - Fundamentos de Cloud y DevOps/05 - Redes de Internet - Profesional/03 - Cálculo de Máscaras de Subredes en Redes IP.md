@@ -85,21 +85,5 @@ A continuación, te dejo con un reto para que apliques lo aprendido:
 
 Practica estos cálculos y refuerza tu entendimiento sobre el tema. Cada vez que trabajes con más ejemplos, verás cómo se simplifican estos procesos. ¡Continúa practicando y expandiendo tus conocimientos!
 
-- Tabla 1
-
-| 2^7 | 2^6 | 2^5 | 2^4 | 2^3 | 2^2 | 2^1 | 2^0 | Resultado |
-| --- | --- | --- | --- | --- | --- | --- | --- | --------- |
-| 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |           |
-| 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0         |
-| 1   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 128       |
-| 1   | 1   | 0   | 0   | 0   | 0   | 0   | 0   | 192       |
-| 1   | 1   | 1   | 0   | 0   | 0   | 0   | 0   | 224       |
-| 1   | 1   | 1   | 1   | 0   | 0   | 0   | 0   | 240       |
-| 1   | 1   | 1   | 1   | 1   | 0   | 0   | 0   | 248       |
-| 1   | 1   | 1   | 1   | 1   | 1   | 0   | 0   | 252       |
-| 1   | 1   | 1   | 1   | 1   | 1   | 1   | 0   | 254       |
-| 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 255       |
-- Tabla 2
-![[Pasted image 20260119083436.png]]
-
 - [[03 - EJERCICIO DE CÁLCULO DE TAMAÑO DE MÁSCARAS]]
+- [[Tabla CIDR IPv4 1 - 32]]

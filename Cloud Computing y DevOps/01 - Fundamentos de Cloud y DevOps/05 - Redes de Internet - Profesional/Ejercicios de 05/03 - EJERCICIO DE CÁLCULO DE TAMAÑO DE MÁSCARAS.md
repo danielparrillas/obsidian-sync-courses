@@ -3,7 +3,7 @@
 Usando lo aprendido en la clase responde:
 
 1.       ¿Cuál es la máscara para una red donde quepan 1000 hosts?
-
+255.255.252.0
 2.       ¿Cuál es la máscara para una red donde quepan 1.000.000 hosts?
 
 3.       ¿Cuál es la máscara para una red donde quepan 128 hosts?
