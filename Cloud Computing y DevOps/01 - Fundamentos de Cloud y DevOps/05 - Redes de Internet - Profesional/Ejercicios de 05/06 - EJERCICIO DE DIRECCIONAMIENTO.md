@@ -23,4 +23,5 @@ Cuántos hosts son capaces de albergar las siguientes máscaras
 | 255.192.0.0   |     |
 | 255.255.255.0 |     |
 ### Clases
+[[05 - Fundamentos de programación en Python para principiantes]]
 [[06 - Direccionamiento de Redes Empresariales - Máscaras y Topologías]]

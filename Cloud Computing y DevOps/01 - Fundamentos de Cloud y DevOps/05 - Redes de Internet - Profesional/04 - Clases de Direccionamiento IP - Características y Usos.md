@@ -22,7 +22,14 @@ La clase A de direcciones IP cuenta con las siguientes características:
     
 - **Usos**: Esta clase está diseñada para redes extremadamente grandes.
     
-
+- Rango: **1.0.0.0 – 126.255.255.255**
+    
+- Bits de red: **8**
+    
+- Bits de host: **24**
+    
+- Hosts por red:  
+    **2²⁴ − 2 = 16,777,214 hosts**
 ### ¿Qué es la clase B?
 
 La clase B de direcciones IP presenta las siguientes características:
