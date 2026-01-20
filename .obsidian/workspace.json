@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38200bff6335adbb",
+        "id": "f63a3d1d2b272d3d",
         "type": "tabs",
         "children": [
           {
-            "id": "7afb6936d8b2c8e2",
+            "id": "18e8ab6d14022c58",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,18 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "06 - Direccionamiento de Redes Empresariales - Máscaras y Topologías"
-            }
-          },
-          {
-            "id": "6d55772478dfcd99",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120080656.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260120080656"
             }
           }
         ]
@@ -205,10 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7afb6936d8b2c8e2",
+  "active": "18e8ab6d14022c58",
   "lastOpenFiles": [
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120080656.png",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Ejercicios de 05/06 - EJERCICIO DE DIRECCIONAMIENTO.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/06 - Direccionamiento de Redes Empresariales - Máscaras y Topologías.md",
+    "Pasted image 20260120081232.png",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120081157.png",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120080656.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120081001.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260119083436.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images",
@@ -243,7 +234,6 @@
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/Recursos",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/20 - Instalación de Wireshark en Windows, macOS y Linux.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/19 - Capa de Presentación - Formatos de Datos en Redes Informáticas.md",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/Drawing 2026-01-16 07.58.04.excalidraw.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/Sin título.canvas",
     "Excalidraw",
     "Sin nombre 1",
