@@ -28,17 +28,17 @@ Usando lo aprendido en la clase responde:
 	- Hosts utilizables: 126
 
 5.       **¿Por qué las preguntas 3 y 4 tienen respuestas diferentes?**
-
+Porque se debe tomar en cuenta solo la cantidad de hosts utilizables, si se llega a pasar deberá utilizarse una máscara de red que permitá una cantidad mayor o igual.
 
 Cuántos hosts son capaces de albergar las siguientes máscaras
 
-|               |     |
-| ------------- | --- |
-| 255.248.0.0   |     |
-| 255.255.248.0 |     |
-| 255.255.128.0 |     |
-| 255.192.0.0   |     |
-| 255.255.255.0 |     |
+| Máscara       | Hosts |
+| ------------- | ----- |
+| 255.248.0.0   |       |
+| 255.255.248.0 |       |
+| 255.255.128.0 |       |
+| 255.192.0.0   |       |
+| 255.255.255.0 |       |
 ### Clases
 [[04 - Clases de Direccionamiento IP - Características y Usos]]
 [[05 - Fundamentos de programación en Python para principiantes]]
