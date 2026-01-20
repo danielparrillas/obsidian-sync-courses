@@ -1,5 +1,5 @@
 ![[Pasted image 20260120080656.png]]
-[^1]
+*Esta imagen estaba en el doc word de los ejercicios, pero no parece tener ninguna relación con los tales.*
 
 Usando lo aprendido en la clase responde:
 
@@ -23,8 +23,12 @@ Usando lo aprendido en la clase responde:
 
 4.       **¿Cuál es la máscara para una red donde quepan 126 hosts?**
 	- 255.255.255.128
+	- Prefijo: /25
+	- Bits de host: 7
+	- Hosts utilizables: 126
 
 5.       **¿Por qué las preguntas 3 y 4 tienen respuestas diferentes?**
+
 
 Cuántos hosts son capaces de albergar las siguientes máscaras
 
@@ -41,4 +45,3 @@ Cuántos hosts son capaces de albergar las siguientes máscaras
 [[06 - Direccionamiento de Redes Empresariales - Máscaras y Topologías]]
 [[Tabla CIDR IPv4 1 - 32]]
 
-[^1]: Esta imagen estaba en el doc word de los ejercicios, pero no parec tener ning
