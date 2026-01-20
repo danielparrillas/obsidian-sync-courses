@@ -3,15 +3,22 @@
 
 Usando lo aprendido en la clase responde:
 
-1.       ¿Cuál es la máscara para una red donde quepan 1000 hosts?
+1.       **¿Cuál es la máscara para una red donde quepan 1000 hosts?**
+	- 255.255.252.0
+	- Prefijo /22
+	- Bits de host 10
+	- Hosts utilizables: 1022
 
-2.       ¿Cuál es la máscara para una red donde quepan 1.000.000 hosts?
+2.       **¿Cuál es la máscara para una red donde quepan 1.000.000 hosts?**
+	- 255.240.0.0
+	- Prefijo /12
+	- Bits de host: 20
+	- 
+3.       **¿Cuál es la máscara para una red donde quepan 128 hosts?**
 
-3.       ¿Cuál es la máscara para una red donde quepan 128 hosts?
+4.       **¿Cuál es la máscara para una red donde quepan 126 hosts?**
 
-4.       ¿Cuál es la máscara para una red donde quepan 126 hosts?
-
-5.       ¿Por qué las preguntas 3 y 4 tienen respuestas diferentes?
+5.       **¿Por qué las preguntas 3 y 4 tienen respuestas diferentes?**
 
 Cuántos hosts son capaces de albergar las siguientes máscaras
 
@@ -26,3 +33,4 @@ Cuántos hosts son capaces de albergar las siguientes máscaras
 [[04 - Clases de Direccionamiento IP - Características y Usos]]
 [[05 - Fundamentos de programación en Python para principiantes]]
 [[06 - Direccionamiento de Redes Empresariales - Máscaras y Topologías]]
+[[Tabla CIDR IPv4 1 - 32]]
