@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f63a3d1d2b272d3d",
+        "id": "be1b5c93ed4f9a49",
         "type": "tabs",
         "children": [
           {
-            "id": "f39e3762f4249b8d",
+            "id": "de723c106d6bce08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/06 - Direccionamiento de Redes Empresariales - Máscaras y Topologías.md",
+                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/07 - Direcciones IP Públicas y Privadas - Conceptos y Uso en Redes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 - Direccionamiento de Redes Empresariales - Máscaras y Topologías"
-            }
-          }
-        ]
-      },
-      {
-        "id": "03602d6942a7ec28",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6c575b9635f617ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources/Tabla CIDR IPv4 1 - 32.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tabla CIDR IPv4 1 - 32"
+              "title": "07 - Direcciones IP Públicas y Privadas - Conceptos y Uso en Redes"
             }
           }
         ]
@@ -214,14 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c575b9635f617ad",
+  "active": "de723c106d6bce08",
   "lastOpenFiles": [
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/06 - Direccionamiento de Redes Empresariales - Máscaras y Topologías.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/07 - Direcciones IP Públicas y Privadas - Conceptos y Uso en Redes.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120084845.png",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources/Tabla CIDR IPv4 1 - 32.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120084138.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120081232.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120083809.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120084306.png",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources/Tabla CIDR IPv4 1 - 32.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Ejercicios de 05/06 - EJERCICIO DE DIRECCIONAMIENTO.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/04 - Clases de Direccionamiento IP - Características y Usos.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120080656.png",
@@ -232,7 +214,6 @@
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260119083436.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120080316.png",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120080301.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/03 - Cálculo de Máscaras de Subredes en Redes IP.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Ejercicios de 05",
