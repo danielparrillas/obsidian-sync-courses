@@ -23,3 +23,7 @@ Ambos dispositivos realizan actividades en internet, como usar WhatsApp y revisa
 - **Flexibilidad:** Permite el uso de direcciones privadas en diferentes organizaciones.
 
 Esperamos que esta guía te haya ayudado a comprender mejor cómo funcionan las direcciones IP privadas y públicas, así como la importante función del NAT en la gestión eficiente y segura de estas direcciones. ¡Sigue aprendiendo y explorando el fascinante mundo de las redes informáticas!
+
+Lecturas recomendadas
+
+- [A Retrospective View of NAT – IETF Journal](https://www.ietfjournal.org/a-retrospective-view-of-nat/)
