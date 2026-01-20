@@ -21,3 +21,5 @@ Para registrarse ir a [https://www.netacad.com](https://www.netacad.com/)
 15. Instalar localmente
 
 Una vez instalado abrir el programa, solicitará inicio de sesión, usar la misma cuenta creada en la plataforma Netacad.
+
+https://www.netacad.com/resources/lab-downloads?courseLang=en-US
