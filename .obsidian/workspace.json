@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "afb7a244485004de",
+        "id": "38200bff6335adbb",
         "type": "tabs",
         "children": [
           {
-            "id": "c658e352a7e14cbc",
+            "id": "7afb6936d8b2c8e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/05 - Fundamentos de programación en Python para principiantes.md",
+                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/06 - Direccionamiento de Redes Empresariales - Máscaras y Topologías.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - Fundamentos de programación en Python para principiantes"
+              "title": "06 - Direccionamiento de Redes Empresariales - Máscaras y Topologías"
             }
           }
         ]
@@ -193,16 +193,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ade9d368c0e233f",
+  "active": "7afb6936d8b2c8e2",
   "lastOpenFiles": [
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources/Pasted image 20260120080316.png",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources/Pasted image 20260120080301.png",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/04 - Clases de Direccionamiento IP - Características y Usos.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260119083436.png",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/06 - Direccionamiento de Redes Empresariales - Máscaras y Topologías.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120080656.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/05 - Fundamentos de programación en Python para principiantes.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120080316.png",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120080301.png",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/04 - Clases de Direccionamiento IP - Características y Usos.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Ejercicios de 05/03 - EJERCICIO DE CÁLCULO DE TAMAÑO DE MÁSCARAS.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources/Tabla CIDR IPv4 1 - 32.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/03 - Cálculo de Máscaras de Subredes en Redes IP.md",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources/Pasted image 20260119083436.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Ejercicios de 05",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/02 - Conversión de Números Decimales a Binarios y Viceversa.md",
@@ -229,10 +232,8 @@
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/19 - Capa de Presentación - Formatos de Datos en Redes Informáticas.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/Drawing 2026-01-16 07.58.04.excalidraw.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/Sin título.canvas",
-    "capa 1.md",
     "Excalidraw",
     "Sin nombre 1",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet"
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps"
   ]
 }
