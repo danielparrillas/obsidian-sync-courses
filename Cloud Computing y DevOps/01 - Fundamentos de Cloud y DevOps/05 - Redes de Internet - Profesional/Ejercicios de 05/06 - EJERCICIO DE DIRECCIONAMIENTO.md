@@ -32,13 +32,13 @@ Porque se debe tomar en cuenta solo la cantidad de hosts utilizables, si se lleg
 
 Cuántos hosts son capaces de albergar las siguientes máscaras
 
-| Máscara       | Hosts |
-| ------------- | ----- |
-| 255.248.0.0   |       |
-| 255.255.248.0 |       |
-| 255.255.128.0 |       |
-| 255.192.0.0   |       |
-| 255.255.255.0 |       |
+| Máscara       | Hosts     |
+| ------------- | --------- |
+| 255.248.0.0   | 524,286   |
+| 255.255.248.0 | 2,046     |
+| 255.255.128.0 | 32,766    |
+| 255.192.0.0   | 4,194,302 |
+| 255.255.255.0 | 254       |
 ### Clases
 [[04 - Clases de Direccionamiento IP - Características y Usos]]
 [[05 - Fundamentos de programación en Python para principiantes]]
