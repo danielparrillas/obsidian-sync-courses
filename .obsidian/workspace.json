@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "06 - Direccionamiento de Redes Empresariales - Máscaras y Topologías"
             }
+          },
+          {
+            "id": "6d55772478dfcd99",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120080656.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260120080656"
+            }
           }
         ]
       }
@@ -195,10 +207,11 @@
   },
   "active": "7afb6936d8b2c8e2",
   "lastOpenFiles": [
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260119083436.png",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/06 - Direccionamiento de Redes Empresariales - Máscaras y Topologías.md",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120080656.png",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/06 - Direccionamiento de Redes Empresariales - Máscaras y Topologías.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120081001.png",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260119083436.png",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/05 - Fundamentos de programación en Python para principiantes.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120080316.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120080301.png",

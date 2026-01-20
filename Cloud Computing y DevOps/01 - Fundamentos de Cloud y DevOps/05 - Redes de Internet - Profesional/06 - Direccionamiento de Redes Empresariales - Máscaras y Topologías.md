@@ -1,5 +1,6 @@
 ![[Pasted image 20260120080656.png]]
 
+
 Usando lo aprendido en la clase responde:
 
 1.       ¿Cuál es la máscara para una red donde quepan 1000 hosts?
