@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/10 - Migración de IPv4 a IPv6-Configuración y Beneficios.md",
+                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/11 - Registros DNS-Tipos y Configuración Básica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Migración de IPv4 a IPv6-Configuración y Beneficios"
+              "title": "11 - Registros DNS-Tipos y Configuración Básica"
             }
           }
         ]
@@ -196,9 +196,10 @@
   },
   "active": "a086f1895538cf96",
   "lastOpenFiles": [
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/10 - Migración de IPv4 a IPv6-Configuración y Beneficios.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/11 - Registros DNS-Tipos y Configuración Básica.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources/10-direcciones-publicas-acabadas-ipv6.pkt",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources/9-direcciones-publicas-acabadas-ipv6.pkt",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/10 - Migración de IPv4 a IPv6-Configuración y Beneficios.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/08 - Descarga e Instalación de Packet Tracer de Cisco.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/09 - Configuración de NAT en Enrutadores para Traducción de IPs Públicas y Privadas.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources/09-ejemplo-configuracion.pkt~",
@@ -241,7 +242,6 @@
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/23 - Dispositivos de Hardware de Red y su Función en la Arquitectura.md",
     "Sin título.base",
     "Indice.base",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/Recursos",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/Sin título.canvas"
   ]
 }
