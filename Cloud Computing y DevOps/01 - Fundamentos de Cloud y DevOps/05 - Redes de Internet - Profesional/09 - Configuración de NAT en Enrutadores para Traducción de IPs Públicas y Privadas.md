@@ -15,6 +15,7 @@ A continuación las instrucciones del ejercicio de NAT:
 4.       Agrega una dirección adicional al pool de direcciones existente y verifica que sea usada.
 
 
+
 Lecturas recomendadas
 
 - [Dynamic NAT](https://study-ccna.com/dynamic-nat/)
