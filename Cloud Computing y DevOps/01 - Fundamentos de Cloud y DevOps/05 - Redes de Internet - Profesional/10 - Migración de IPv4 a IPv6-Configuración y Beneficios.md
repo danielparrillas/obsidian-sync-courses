@@ -4,10 +4,4 @@ Archivos de la clase
 
 Lecturas recomendadas
 
-- [
-    
-    Local IPv6 Address Generator - Online IPv6 Tools
-    
-    
-    
-    ](https://iplocation.io/ipv6-address-generator)
+- [Local IPv6 Address Generator - Online IPv6 Tools](https://iplocation.io/ipv6-address-generator)
