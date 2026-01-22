@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "03 - Cálculo de Máscaras de Subredes en Redes IP"
             }
+          },
+          {
+            "id": "572a9b173bda89dc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93a5f07f073aa0a4",
+  "active": "572a9b173bda89dc",
   "lastOpenFiles": [
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/04 - Clases de Direccionamiento IP - Características y Usos.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/05 - Fundamentos de programación en Python para principiantes.md",
