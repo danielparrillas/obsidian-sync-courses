@@ -1,0 +1,3 @@
+**Convergencia** Cuando todos los enrutadores tienen una visión coherente de la red, lo cual no significa que todos la vean igual, pero sí que todos conocen que existe toda la topología alcanzable. 
+_-_ Existen algunos protocolos de enrutamiento en los cuales el estado de convergencia no es fácil alcanzar como lo es el protocolo **RIP** Esto es debido a que puede existir una versión de la topología con la que cuentan los enrutadores que sea distinta otra, en estos caso los paquetes se pierden.
+_-_ **¿Cómo identificar que una red esta en convergencia?** Todos los enrutadores involucrados tienen el mismo número de redes pero la tabla de enrutamiento no será la misma cada uno tiene su propia versión de la topología.
