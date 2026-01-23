@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/19 - Convergencia en Redes - Protocolos de Enrutamiento y Configuración.md",
+                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/20 - Diseño y Consideraciones de Redes Locales y sus Capas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19 - Convergencia en Redes - Protocolos de Enrutamiento y Configuración"
+              "title": "20 - Diseño y Consideraciones de Redes Locales y sus Capas"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "32c15c5585a908f7",
   "lastOpenFiles": [
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/18 - Rutas Estáticas y Dinámicas.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/19 - Convergencia en Redes - Protocolos de Enrutamiento y Configuración.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/20 - Diseño y Consideraciones de Redes Locales y sus Capas.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/18 - Rutas Estáticas y Dinámicas.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/16 - Configuración de Protocolos de Enrutamiento IP.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/rutas-c94378f4-76a7-4fcd-bf16-c3bb391cec82.webp",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/rutas dinámicas-bda9ffed-88ac-4129-80b7-c7557dd4f064.jpg",
@@ -240,7 +241,6 @@
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/16 - Capa de Red Dirección y Enrutamiento de Paquetes.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/17 - Capa de Transporte TCP y UDP en Redes de Comunicación.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/15 - Direcciones MAC Identificación y gestión en dispositivos de red.md",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/14 - Funciones y Protocolos de la Capa de Enlace de Datos.md",
     "Sin título.base",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/Sin título.canvas"
   ]
