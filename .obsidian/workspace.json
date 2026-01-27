@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3df99ac56d28f625",
+        "id": "7bbaa00e80b59ec0",
         "type": "tabs",
         "children": [
           {
-            "id": "32c15c5585a908f7",
+            "id": "56a9a0a952a37b5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/04 - Clases de Direccionamiento IP - Características y Usos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "04 - Clases de Direccionamiento IP - Características y Usos"
+              "title": "New tab"
             }
           }
         ]
@@ -194,8 +190,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32c15c5585a908f7",
+  "active": "0ade9d368c0e233f",
   "lastOpenFiles": [
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/04 - Clases de Direccionamiento IP - Características y Usos.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/20 - Diseño y Consideraciones de Redes Locales y sus Capas.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/19 - Convergencia en Redes - Protocolos de Enrutamiento y Configuración.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/18 - Rutas Estáticas y Dinámicas.md",
@@ -216,7 +213,6 @@
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources/09-ejemplo-configuracion.pkt",
     "conflict-files-obsidian-git.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/03 - Cálculo de Máscaras de Subredes en Redes IP.md",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/04 - Clases de Direccionamiento IP - Características y Usos.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/05 - Fundamentos de programación en Python para principiantes.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/06 - Direccionamiento de Redes Empresariales - Máscaras y Topologías.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/07 - Direcciones IP Públicas y Privadas - Conceptos y Uso en Redes.md",
