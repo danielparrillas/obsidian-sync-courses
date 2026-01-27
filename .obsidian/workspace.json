@@ -11,14 +11,12 @@
             "id": "56a9a0a952a37b5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/Fundamentos de Git- Configuración y Comandos Básicos.md",
-                "mode": "source",
-                "source": false
+                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/Resources/git-cheat-sheet-education.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Fundamentos de Git- Configuración y Comandos Básicos"
+              "icon": "lucide-file-text",
+              "title": "git-cheat-sheet-education"
             }
           }
         ]
@@ -194,10 +192,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56a9a0a952a37b5a",
+  "active": "0ade9d368c0e233f",
   "lastOpenFiles": [
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/01 - Control de Versiones con Git y GitHub- De Básico a Avanzado.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/Untitled",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/Fundamentos de Git- Configuración y Comandos Básicos.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/Resources/git-cheat-sheet-education.pdf",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/Resources",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/01 - Control de Versiones con Git y GitHub- De Básico a Avanzado.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/04 - Clases de Direccionamiento IP - Características y Usos.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/20 - Diseño y Consideraciones de Redes Locales y sus Capas.md",
@@ -236,12 +237,9 @@
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120081001.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Ejercicios de 05",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/02 - Conversión de Números Decimales a Binarios y Viceversa.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/01 - Redes de Internet - Configuración y Seguridad Avanzada.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/18 - Capa de Sesión en el Modelo OSI - Funciones y Protocolos Clave.md",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/16 - Capa de Red Dirección y Enrutamiento de Paquetes.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/Sin título.canvas"
   ]
 }
