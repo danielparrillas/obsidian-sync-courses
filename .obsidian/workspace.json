@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/01 - Control de Versiones con Git y GitHub- De Básico a Avanzado.md",
+                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/Fundamentos de Git- Configuración y Comandos Básicos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Control de Versiones con Git y GitHub- De Básico a Avanzado"
+              "title": "Fundamentos de Git- Configuración y Comandos Básicos"
             }
           }
         ]
@@ -197,6 +197,7 @@
   "active": "56a9a0a952a37b5a",
   "lastOpenFiles": [
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/01 - Control de Versiones con Git y GitHub- De Básico a Avanzado.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/Fundamentos de Git- Configuración y Comandos Básicos.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/04 - Clases de Direccionamiento IP - Características y Usos.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/20 - Diseño y Consideraciones de Redes Locales y sus Capas.md",
@@ -241,7 +242,6 @@
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/18 - Capa de Sesión en el Modelo OSI - Funciones y Protocolos Clave.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/16 - Capa de Red Dirección y Enrutamiento de Paquetes.md",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/17 - Capa de Transporte TCP y UDP en Redes de Comunicación.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/Sin título.canvas"
   ]
 }

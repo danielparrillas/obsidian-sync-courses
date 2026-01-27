@@ -3,7 +3,7 @@
 - [Git](https://git-scm.com/)
 - [GitHub · Build and ship software on a single, collaborative platform · GitHub](https://github.com/)
 
-Resumen
+**Resumen**
 
 Aprender a gestionar versiones en proyectos de software es fundamental para evitar el caos de múltiples archivos llamados “versión final” y mejorar la colaboración en equipo. Git, un sistema de control de versiones, permite a los desarrolladores trabajar de manera ordenada, manteniendo solo los cambios realizados en los archivos y simplificando el trabajo en equipo al coordinar y sincronizar las modificaciones.
 
