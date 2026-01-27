@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7bbaa00e80b59ec0",
+        "id": "56333929dc1da555",
         "type": "tabs",
         "children": [
           {
-            "id": "56a9a0a952a37b5a",
+            "id": "c5512073cbc5a4a2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/02 - Introducción a la Terminal/linux-terminal-cheat-sheet.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "linux-terminal-cheat-sheet"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -192,10 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56a9a0a952a37b5a",
+  "active": "0ade9d368c0e233f",
   "lastOpenFiles": [
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/Resources/git-cheat-sheet-education.pdf",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/02 - Introducción a la Terminal/linux-terminal-cheat-sheet.pdf",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/Resources/git-cheat-sheet-education.pdf",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/02 - Introducción a la Terminal",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/Fundamentos de Git- Configuración y Comandos Básicos.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/Resources",
