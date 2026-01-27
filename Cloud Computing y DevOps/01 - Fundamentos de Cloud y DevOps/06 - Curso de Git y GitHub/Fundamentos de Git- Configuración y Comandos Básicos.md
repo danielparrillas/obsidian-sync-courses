@@ -1,42 +1,4 @@
-Lecturas recomendadas
-
-- [
-    
-    Git
-    
-    ](https://git-scm.com/)
-- [
-    
-    Git - git-init Documentation
-    
-    ](https://git-scm.com/docs/git-init)
-- [
-    
-    Git Cheat Sheet - GitHub Education
-    
-    ](https://education.github.com/git-cheat-sheet-education.pdf)
-- [
-    
-    Git - git-config Documentation
-    
-    ](https://git-scm.com/docs/git-config)
-- [
-    
-    Git - Configurando Git por primera vez
-    
-    ](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Configurando-Git-por-primera-vez)
-- [
-    
-    Configurar Windows para WSL - Platzi
-    
-    ](https://platzi.com/home/clases/6900-configuracion-windows/60922-configurar-windows-11-para-soportar-la-instalacion/)
-- [
-    
-    GitHub · Build and ship software on a single, collaborative platform · GitHub
-    
-    ](https://github.com/)
-
-Resumen
+**Resumen**
 
 Trabajar con Git en la terminal permite a los desarrolladores gestionar sus proyectos de manera eficiente. A continuación, revisamos cómo instalar, configurar y utilizar Git en Linux, Mac y WSL de Windows, junto con algunas recomendaciones prácticas para dominar los comandos iniciales de esta herramienta.
 
@@ -90,3 +52,41 @@ Git incluye un recurso rápido y útil para recordar la sintaxis de comandos:
 
 1. Escribe `git help` en la terminal.
 2. Navega la lista de comandos disponibles y consulta la documentación oficial de cada uno cuando sea necesario.
+
+Lecturas recomendadas
+
+- [
+    
+    Git
+    
+    ](https://git-scm.com/)
+- [
+    
+    Git - git-init Documentation
+    
+    ](https://git-scm.com/docs/git-init)
+- [
+    
+    Git Cheat Sheet - GitHub Education
+    
+    ](https://education.github.com/git-cheat-sheet-education.pdf)
+- [
+    
+    Git - git-config Documentation
+    
+    ](https://git-scm.com/docs/git-config)
+- [
+    
+    Git - Configurando Git por primera vez
+    
+    ](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Configurando-Git-por-primera-vez)
+- [
+    
+    Configurar Windows para WSL - Platzi
+    
+    ](https://platzi.com/home/clases/6900-configuracion-windows/60922-configurar-windows-11-para-soportar-la-instalacion/)
+- [
+    
+    GitHub · Build and ship software on a single, collaborative platform · GitHub
+    
+    ](https://github.com/)
