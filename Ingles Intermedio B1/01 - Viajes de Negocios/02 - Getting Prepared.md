@@ -15,7 +15,14 @@ Keep notes of the keys tasks my boss needs me to do during the business trip.
 - I still need to talk with Mary, the travel manager from Human Resources.
 ---
 # Be going to + infinitive verb
-Express things that going to be done in the future.
-
+Expresses things that going to be done in the future.
+- I'm going to send you everything i have after the meeting.
+- Which airline are you going to fly with?
+- Are you going to rent a car?
+- You're not going to have a lot of free time to do sightseeing.
+---
+# Practice task
+- Read the article on planning a business trip.
+- Create a checklist of importan things you need to do and things that you are going to do for your busine
 ---
 https://platzi.com/cursos/viajes-negocios/pre-trip-meeting/
