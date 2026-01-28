@@ -1,3 +1,6 @@
 Keep notes of the keys tasks my boss needs me to do during the business trip.
 
-* *What *
+## What tasks do i need to take care of before I arrive in London?
+- Decide a new GM
+
+## What do i need to do while I'm there?
