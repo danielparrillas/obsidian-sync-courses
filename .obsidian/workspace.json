@@ -11,10 +11,14 @@
             "id": "3f3489660ad28fc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ingles Intermedio B1/01 - Viajes de Negocios/02 - Planificación de Tareas para Viajes de Negocios.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "02 - Planificación de Tareas para Viajes de Negocios"
             }
           }
         ]
@@ -192,6 +196,9 @@
   },
   "active": "3f3489660ad28fc6",
   "lastOpenFiles": [
+    "Ingles Intermedio B1/01 - Viajes de Negocios/02 - Planificación de Tareas para Viajes de Negocios.md",
+    "Ingles Intermedio B1/01 - Viajes de Negocios",
+    "Ingles Intermedio B1",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/03 - Control de Versiones con Git- Comandos Básicos y Flujo de Trabajo.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/02 - Fundamentos de Git- Configuración y Comandos Básicos.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/02 - Introducción a la Terminal/linux-terminal-cheat-sheet.pdf",
@@ -217,8 +224,6 @@
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources/9-direcciones-publicas-acabadas-ipv6.pkt",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/08 - Descarga e Instalación de Packet Tracer de Cisco.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/09 - Configuración de NAT en Enrutadores para Traducción de IPs Públicas y Privadas.md",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources/09-ejemplo-configuracion.pkt~",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Resources/09-ejemplo-configuracion.pkt",
     "conflict-files-obsidian-git.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/03 - Cálculo de Máscaras de Subredes en Redes IP.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/05 - Fundamentos de programación en Python para principiantes.md",
@@ -237,7 +242,6 @@
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120081001.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/02 - Conversión de Números Decimales a Binarios y Viceversa.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/01 - Redes de Internet - Configuración y Seguridad Avanzada.md",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/18 - Capa de Sesión en el Modelo OSI - Funciones y Protocolos Clave.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/Sin título.canvas"
   ]
 }
