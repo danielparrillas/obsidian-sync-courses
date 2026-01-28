@@ -23,6 +23,10 @@ Expresses things that going to be done in the future.
 ---
 # Practice task
 - Read the article on planning a business trip.
-- Create a checklist of importan things you need to do and things that you are going to do for your busine
+- Create a checklist of importan things you need to do and things that you are going to do for your business trip.
 ---
-https://platzi.com/cursos/viajes-negocios/pre-trip-meeting/
+# Resources
+- https://platzi.com/cursos/viajes-negocios/pre-trip-meeting/
+- [Top tips on how to plan a business trip](https://www.mycwt.com/insights/planning-your-business-trip/)
+- [Class 2 - Roleplay Script.pptx - Google Slides](https://docs.google.com/presentation/d/1bv8G7cQEqF7dUSwB5n9x7JWHv7tv5O2a/edit?usp=sharing&amp;ouid=111988413036925802753&amp;rtpof=true&amp;sd=true)
+- Script: ![[class-2-roleplay-script.pdf]]
