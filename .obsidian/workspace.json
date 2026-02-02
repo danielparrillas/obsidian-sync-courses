@@ -11,10 +11,14 @@
             "id": "9d4988c04ee6efcc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/06 - Uso de Git Tag y Git Checkout para Gestión de Versiones y Revisión.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "06 - Uso de Git Tag y Git Checkout para Gestión de Versiones y Revisión"
             }
           }
         ]
@@ -191,6 +195,7 @@
   },
   "active": "9d4988c04ee6efcc",
   "lastOpenFiles": [
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/06 - Uso de Git Tag y Git Checkout para Gestión de Versiones y Revisión.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/05 - Git Reset vs Git Revert-Manejo de Historial y Corrección de Errores.md",
     "Ingles Intermedio B1/01 - Viajes de Negocios/02 - Getting Prepared.md",
     "Ingles Intermedio B1/01 - Viajes de Negocios/Resources/class-2-roleplay-script.pdf",
@@ -236,7 +241,6 @@
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Ejercicios de 05/03 - EJERCICIO DE CÁLCULO DE TAMAÑO DE MÁSCARAS.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120081157.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120081001.png",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/02 - Conversión de Números Decimales a Binarios y Viceversa.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/04 - Redes Informáticas de Internet/Sin título.canvas"
   ]
 }
