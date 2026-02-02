@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/07 - Resolución de Conflictos de Ramas en Git paso a paso.md",
+                "file": "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/08 - Uso de Git en Visual Studio Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 - Resolución de Conflictos de Ramas en Git paso a paso"
+              "title": "08 - Uso de Git en Visual Studio Code"
             }
           }
         ]
@@ -196,6 +196,7 @@
   "active": "bdb3a0c7fa332867",
   "lastOpenFiles": [
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/07 - Resolución de Conflictos de Ramas en Git paso a paso.md",
+    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/08 - Uso de Git en Visual Studio Code.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/06 - Uso de Git Tag y Git Checkout para Gestión de Versiones y Revisión.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/06 - Curso de Git y GitHub/05 - Git Reset vs Git Revert-Manejo de Historial y Corrección de Errores.md",
     "Ingles Intermedio B1/01 - Viajes de Negocios/02 - Getting Prepared.md",
@@ -237,7 +238,6 @@
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120081232.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120083809.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120084306.png",
-    "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Ejercicios de 05/06 - EJERCICIO DE DIRECCIONAMIENTO.md",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120080656.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120081157.png",
     "Cloud Computing y DevOps/01 - Fundamentos de Cloud y DevOps/05 - Redes de Internet - Profesional/Images/Pasted image 20260120081001.png",
