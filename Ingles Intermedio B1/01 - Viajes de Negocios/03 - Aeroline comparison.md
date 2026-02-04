@@ -4,6 +4,12 @@
 - [JetBlue](https://www.jetblue.com/)
 
 **Summary**
+![[Pasted image 20260204085213.png]]
+#### Comparaciones: -er
+- EZ Flights tiene tarifas **más baratas** que la aerolínea de servicio completo.
+- Así que tiene un tiempo de viaje mucho **más largo** que Quick Jets.
+- Hasta ahora, la aerolínea de bajo costo ofrece un precio **más justo**, pero Quick Jets tiene mayores ventajas.
+- Además, mis maletas pueden ser **más pesadas** con Quick Jets de lo que pueden ser con EZ Flights.
 
 ## ¿Qué son las aerolíneas de bajo coste y servicio completo?
 
