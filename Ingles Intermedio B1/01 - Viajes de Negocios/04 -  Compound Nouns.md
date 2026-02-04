@@ -1,3 +1,4 @@
+Sustantivos compuestos en viajes de negocios
 # Summary
 
 ## ¿Cómo elegir un hotel para un viaje de negocios?
@@ -40,6 +41,8 @@ Recuerda que cada nuevo reto en el aprendizaje del idioma no solo expande tus ha
 business trip
 business center
 international driver license
+company credit card
+
 # Files
 ![[class-4-hotel-accommodations-roleplay-script.pdf]]
 
