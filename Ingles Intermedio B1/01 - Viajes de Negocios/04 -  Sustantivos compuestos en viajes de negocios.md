@@ -35,3 +35,9 @@ Recuerda que cada nuevo reto en el aprendizaje del idioma no solo expande tus ha
 
 - [Class 4 - HOTEL ACCOMMODATIONS.pptx - Google Slides](https://docs.google.com/presentation/d/1kkDKoYe5MLRtjLX99gezu1KqjshmED6G/edit?usp=sharing&amp;ouid=111988413036925802753&amp;rtpof=true&amp;sd=true)
 - [Class 4 Hotel accommodations - Roleplay Script.pptx - Google Slides](https://docs.google.com/presentation/d/185CDCkBlk9BW7bf3R_MN7Mj3G7K9hmqT/edit?usp=sharing&amp;ouid=111988413036925802753&amp;rtpof=true&amp;sd=true)
+
+# Files
+![[class-4-hotel-accommodations-roleplay-script.pdf]]
+
+![[class-4-hotel-accommodations.pdf]]
+
