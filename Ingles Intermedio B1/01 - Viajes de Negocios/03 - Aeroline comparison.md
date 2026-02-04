@@ -3,14 +3,21 @@
 - [https://www.united.com/en/us/](https://www.united.com/en/us/)
 - [JetBlue](https://www.jetblue.com/)
 
-**Summary**
+![[Pasted image 20260204085506.png]]
+#### Comparaciones: (not) as + adjetivo + as
+
+- No es **tan flexible como** la aerolínea más cara.
+- La aerolínea de bajo costo no está **tan alto en la lista como** la aerolínea de servicio completo.
+- EZ Flights no es **tan caro como** Quick Jets.
+- El vuelo directo de EZ Flights llegará **tan rápido como** el otro.
+
 ![[Pasted image 20260204085213.png]]
 #### Comparaciones: -er
 - EZ Flights tiene tarifas **más baratas** que la aerolínea de servicio completo.
 - Así que tiene un tiempo de viaje mucho **más largo** que Quick Jets.
 - Hasta ahora, la aerolínea de bajo costo ofrece un precio **más justo**, pero Quick Jets tiene mayores ventajas.
 - Además, mis maletas pueden ser **más pesadas** con Quick Jets de lo que pueden ser con EZ Flights.
-
+# Summary
 ## ¿Qué son las aerolíneas de bajo coste y servicio completo?
 
 El emocionante mundo de la aviación nos ofrece actualmente diversas opciones al momento de viajar, y entender las diferencias entre las aerolíneas de bajo coste y las de servicio completo puede ser crucial para optimizar nuestra experiencia de vuelo. ¡Imagínate elegir de forma informada la opción que más te convenga!
