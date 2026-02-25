@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "04 -  Compound Nouns"
             }
+          },
+          {
+            "id": "a07b54a40a68f3f0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c2f25aeb09cd4c8",
+  "active": "a07b54a40a68f3f0",
   "lastOpenFiles": [
     "Ingles Intermedio B1/01 - Viajes de Negocios/Resources/class-4-hotel-accommodations-roleplay-script.pdf",
     "Ingles Intermedio B1/01 - Viajes de Negocios/Resources/class-4-hotel-accommodations.pdf",
